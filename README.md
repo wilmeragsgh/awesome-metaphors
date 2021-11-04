@@ -1,7 +1,7 @@
 # Metaphors
 Useful metaphors to reframe problems or interpretations about the world
 
-This repo can start as a git version of lakoff, but hopefully/eventually may lead to a big crowdsourced index of metaphors.
+This repo can start as a git version of [George Lakoff](http://www.lang.osaka-u.ac.jp/~sugimoto/MasterMetaphorList/metaphors/), but hopefully/eventually may lead to a big crowdsourced index of metaphors.
 
 ## Other useful repos
 
